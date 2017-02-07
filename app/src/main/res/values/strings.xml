@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zbar Android JNI Project Example</string>
+    <string name="scan_text">Scan Barcode or QR Code</string>
+</resources>
